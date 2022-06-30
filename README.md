@@ -1,8 +1,8 @@
 # meu-primeiro-repositorio
 
-***
-Para copiar meu o codigo em HMTL
+Para copiar o código em HTML
+* * *
 <html>
-<h1> meu primeiro arquivo HTML </h1>
-</html>    
-***
+        <h1> Meu primeiro arquivo no meu repositório</h1>
+<\html>
+* * *  
